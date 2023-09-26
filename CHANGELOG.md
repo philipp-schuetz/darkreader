@@ -1,3 +1,13 @@
+## 4.9.66 (September 25, 2023)
+
+- Dynamic mode fixes.
+- UI improvements.
+
+## 4.9.65 (August 7, 2023)
+
+- Optimize inline style handling (fixes DuckDuckGo issue).
+- Added an option to enable/disable the extension for all websites by default.
+
 ## 4.9.64 (June 21, 2023)
 
 - Using passive event listeners (#11047)
